@@ -1,0 +1,33 @@
+{
+  "id": "630a2e2b-3296-43e2-93fb-75d31cb33d86",
+  "name": "PIPrint",
+  "publisher": "www.dabbler.dk",
+  "version": "1.0.0.0",
+  "brief": "Printing directly to any Raspberry PI connected printer (Raspberry OS with CUPS)",
+  "description": "Printing directly to any Raspberry PI connected printer (Raspberry OS with CUPS)",
+  "privacyStatement": "https://www.dabbler.dk/",
+  "EULA": "https://www.dabbler.dk/",
+  "help": "https://www.dabbler.dk/",
+  "url": "https://www.dabbler.dk/",
+  "logo": "",
+  "contextSensitiveHelpUrl": "https://www.dabbler.dk/",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 90000,
+      "to": 90010
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "target": "Cloud",
+  "runtime": "9.0",
+  "supportedLocales": ["da-DK", "en-US"],
+  "features": ["TranslationFile"]
+}

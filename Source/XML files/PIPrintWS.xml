@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExportedData>
+    <TenantWebServiceCollection>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>90000</ObjectID>
+            <ServiceName>PIPrintPrinterWS</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>90002</ObjectID>
+            <ServiceName>PIPrintQueueWS</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+    </TenantWebServiceCollection>
+</ExportedData>

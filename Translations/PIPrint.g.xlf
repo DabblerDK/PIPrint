@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PIPrint">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1637505434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PIPrint Printer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Method 1644784752 - NamedType 743530767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The DateFormula must calculate a date in the past, not in the future!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Method ValidateDateFormula - NamedType MustBeInThePastErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 94632411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto deleted jobs Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field AutoDeleteJobsCancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 221020487 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto deleted jobs in Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field AutoDeleteJobsInError - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 3041968424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto deleted jobs on Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field AutoDeleteJobsOnHold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 3684341038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto deleted jobs Printed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field AutoDeleteJobsPrinted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 1446388317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto deleted jobs Printing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field AutoDeleteJobsPrinting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 708880905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto deleted jobs Queued</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field AutoDeleteJobsQueued - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 3373193519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Host ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field HostID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 1558392830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field LatestUpdate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 2819360026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New jobs on Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field NewJobsOnHold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 2222807574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of jobs Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field NoCancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 3339630050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of jobs in Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field NoInError - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 1746336457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of jobs on Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field NoOnHold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 4243383107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of jobs Printed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field NoPrinted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 2946557564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of jobs Printing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field NoPrinting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 3466726776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of jobs Queued</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field NoQueued - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 497104541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field PrinterID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 3688777988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Json Payload</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field PrinterJsonPayload - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 3688777988 - Method 2126772001 - NamedType 1739944124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The provided PrinterJsonPayload could not be parsed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field PrinterJsonPayload - Method OnValidate - NamedType JsonParseErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 2743562675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field PrinterName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1637505434 - Field 2251612021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RowNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintPrinter - Field RowNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PIPrint Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 3373193519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Host ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field HostID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 1153413096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Job (PDF)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field PDFPrintJob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 1668868500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printed Date and Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field Printed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 497104541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field PrinterID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 3427055153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Job Json Payload</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field PrinterJobJsonPayload - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 1847210255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field PrinterMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 2743562675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field PrinterName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 4268375311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Row No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field PrinterRowNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 2251612021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RowNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field RowNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3209652587 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job State</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PIPrintQueue - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PIPrint Printers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 94632411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled Jobs will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control AutoDeleteJobsCancelled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 221020487 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jobs in Error will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control AutoDeleteJobsInError - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 3041968424 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jobs on Hold will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control AutoDeleteJobsOnHold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 3684341038 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printed Jobs will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control AutoDeleteJobsPrinted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 708880905 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Queued Jobs will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control AutoDeleteJobsQueued - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is this printer enabled or not?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 3373193519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Host ID handling printing to the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control HostID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 1558392830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latest update from PIPrint processor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control LatestUpdate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 1558392830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latest update</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control LatestUpdate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 2819360026 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Place new jobs on Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control NewJobsOnHold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 2222807574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control NoCancelled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 3339630050 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs in Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control NoInError - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 1746336457 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs on Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control NoOnHold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 4243383107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs Printed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control NoPrinted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 2946557564 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs beeing Printed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control NoPrinting - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 3466726776 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs Queued</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control NoQueued - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 497104541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer ID of the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control PrinterID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 3688777988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the JSON payload describing the Printer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control PrinterJsonPayload - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 2743562675 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer Name of the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control PrinterName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Control 2251612021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Row No. of the Row</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Control RowNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Action 2944829247 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Printer Management page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Action PrinterManagement - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Action 2944829247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Action PrinterManagement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Action 3602863235 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Printer Queue page for this printer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Action Queue - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1637505434 - Action 3602863235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinter - Action Queue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 94632411 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled Jobs will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control AutoDeleteJobsCancelled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 221020487 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jobs in Error will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control AutoDeleteJobsInError - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 3041968424 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jobs on Hold will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control AutoDeleteJobsOnHold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 3684341038 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printed Jobs will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control AutoDeleteJobsPrinted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 708880905 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Queued Jobs will be automatically deleted according to this date formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control AutoDeleteJobsQueued - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is this printer enabled or not?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 3373193519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Host ID handling printing to the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control HostID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 1558392830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latest update from PIPrint processor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control LatestUpdate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 2819360026 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Place new jobs on Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control NewJobsOnHold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 2222807574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control NoCancelled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 3339630050 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs in Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control NoInError - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 1746336457 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs on Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control NoOnHold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 4243383107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs Printed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control NoPrinted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 2946557564 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs beeing Printed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control NoPrinting - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 3466726776 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is current no. of jobs Queued</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control NoQueued - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 497104541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer ID of the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control PrinterID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 3688777988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the JSON payload describing the Printer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control PrinterJsonPayload - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 2743562675 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer Name of the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control PrinterName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4181121686 - Control 2251612021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Row No. of the Row</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintPrinterWS - Control RowNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PIPrint Queues</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 3373193519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Host ID handling printing to the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control HostID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 1668868500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and time of when the job was printed successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control Printed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 497104541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer ID of the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control PrinterID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 3427055153 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the JSON payload describing the Print job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control PrinterJobJsonPayload - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 1847210255 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This field holds messages from the printer regarding the job (i.e. additional status information)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control PrinterMessage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 2743562675 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer Name of the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control PrinterName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 4268375311 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Row No. of Printer which this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control PrinterRowNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 2251612021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Row No. of the Row</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control RowNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the current status of the job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Action 366713437 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show this job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Action Show - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Action 366713437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show the Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Action Show - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Action 788258546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restart this job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Action Cancel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Action 788258546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Action Cancel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Action 1949211201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hold this job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Action Hold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Action 1949211201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hold the Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Action Hold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Action 1303173321 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restart this job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Action Restart - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3209652587 - Action 1303173321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restart Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueue - Action Restart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 3373193519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Host ID handling printing to the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control HostID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 1788971021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the actual BASE 64 encoded binary Print job as PDF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control PDFPrintJobBASE64 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 1668868500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and time of when the job was printed successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control Printed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 497104541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer ID of the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control PrinterID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 3427055153 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the JSON payload describing the Print job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control PrinterJobJsonPayload - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 1847210255 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This field holds messages from the printer regarding the job (i.e. additional status information)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control PrinterMessage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 2743562675 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer Name of the Printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control PrinterName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 4268375311 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Printer RowNo of the printer this job should be printed to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control PrinterRowNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 2251612021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Row No. of the Row</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control RowNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1941898847 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the current status of the job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PIPrintQueueWS - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1485998727 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1215073847">
+          <source>New,Process,Report,Manage,Email Print,Universal Print,PIPrint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIPrintPrinterManagement - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1485998727 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1215073847">
+          <source>piprint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIPrintPrinterManagement - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1485998727 - Action 3136778279 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1215073847">
+          <source>Maintain automatically registered PIPrint printers that are shared with your Business Central.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIPrintPrinterManagement - Action PIPrintPrinters - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1485998727 - Action 3136778279 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1215073847">
+          <source>Maintain PIPrint Printers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIPrintPrinterManagement - Action PIPrintPrinters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1485998727 - Action 3199964236 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1215073847">
+          <source>Open the official PIPrint repository on GitHub.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIPrintPrinterManagement - Action PIPrint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1485998727 - Action 3199964236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1215073847">
+          <source>PIPrint on GitHub</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIPrintPrinterManagement - Action PIPrint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1485998727 - Action 3152602038 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1215073847">
+          <source>See and maintain the print queues of the installed PIPrint printers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIPrintPrinterManagement - Action PIPrintQueues - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1485998727 - Action 3152602038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1215073847">
+          <source>Maintain PIPrint Queues</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PIPrintPrinterManagement - Action PIPrintQueues - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2099661996 - EnumValue 4069904181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIPrintJobState - EnumValue Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2099661996 - EnumValue 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIPrintJobState - EnumValue Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2099661996 - EnumValue 1949211201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OnHold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIPrintJobState - EnumValue Hold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2099661996 - EnumValue 1668868500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIPrintJobState - EnumValue Printed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2099661996 - EnumValue 3247916339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIPrintJobState - EnumValue Printing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2099661996 - EnumValue 749506527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Queued</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PIPrintJobState - EnumValue Queued - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2930220235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PIPrint All Permissions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet PIPrintAll - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2024043262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PIPrint Basic Permissions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet PIPrintBasic - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 4092048474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PIPrint Processer webservice permissions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet PIPrintProcessor - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
