@@ -4,7 +4,7 @@ Hi, this is the first release of the implementation of an idea I've had for a wh
 We need a fully free and expandable direct printing solution for Microsoft Dynamics 365 Business Central.
 
 Unfortunately I don't have much time to develop this further, so consider it a working prototype for now. It is still a bit rough, but it will get you started. Feel free to improve and use it in both commercial and private installations. But please submit improvements back to this repository.
-Due to limited time, I don't have much time to support this, but please follow 
+Due to limited time, I don't have much time to support this, but please follow my. blog post about it (https://www.dabbler.dk/?p=632) or write me an e-mail on gert@dabbler.dk
 
 Solution is split into two part:
 - App for Microsoft Dynamics 365 Business Central that allow the "Print processors" to register printers and fetch print jobs via ODataV4 webservices
