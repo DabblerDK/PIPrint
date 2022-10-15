@@ -1,6 +1,6 @@
 # PIPrint - A Free Direct Printing Solution for your Microsoft Dynamics 365 Business Central
 
-Hi, this is the first release of the implementation of an idea I've had for a while.
+This is my release of the implementation of an idea I've had for a while:
 We need a fully free and expandable direct printing solution for Microsoft Dynamics 365 Business Central.
 
 Unfortunately I don't have much time to develop this further, so consider it a working prototype for now. It is still a bit rough, but it will get you started. Feel free to improve and use it in both commercial and private installations. But please submit improvements back to this repository.
@@ -12,11 +12,13 @@ Solution is split into two part:
 - Print Processor for Linux/Python. Should be able to run more or less modified on everything supporting Python and CUPS (http://www.cups.org/). I've tested on Raspberry OS (https://www.raspberrypi.com/software/) and FreeBSD (https://www.freebsd.org/)
 
 Features include:
-- Yes, both Microsoft Dynamics 365 Business Central OnPrem and SaaS is supported
-- Yes, both Basic Authentication and OAuth2 is supported
-- Yes, this fully integrates with the Dynamics 365 Business Central printing subsystem - just like e-mail printing and/or (https://learn.microsoft.com/en-us/dynamics365/business-central/ui-specify-printer-selection-reports)
+- Yes, all printers supported on Windows are most likely supported with the Windows/PowerShell Print Processor (even the cheapest USB connected Ink printers!)
+- Yes, all printers supported by CUPS are most likely supported with the Linux/Python Print Processors (even the cheapest USB connected Ink printers!)
+- Yes, both Microsoft Dynamics 365 Business Central OnPrem and SaaS are supported
+- Yes, both Basic Authentication and OAuth2 are supported
+- Yes, this fully integrates with the Dynamics 365 Business Central printing sub-system - just like e-mail printing and/or Universal Print (https://learn.microsoft.com/en-us/dynamics365/business-central/ui-specify-printer-selection-reports)
 - Yes, you can setup a Raspberry PI and connect it to your Microsoft Dynamics 365 Business Central SaaS installation to handle Direct Printing  (https://www.raspberrypi.org/)
-- Yes, this is really free
+- Yes, this is really free! No registration, no licensing!
 
 Ideas for further development:
 - We don't have to request a new OAuth2 access key every time. We should cache it and only request a new one when it is about to expire
